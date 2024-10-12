@@ -392,6 +392,15 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 4.4.3. Web Applications Mock-ups  
 4.4.4. Web Applications User Flow Diagrams  
 4.5. Web Applications Prototyping  
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping4.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping5.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping6.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
+
 4.6. Domain-Driven Software Architecture  
 4.6.1. Software Architecture Context Diagram  
 4.6.2. Software Architecture Container Diagrams  
