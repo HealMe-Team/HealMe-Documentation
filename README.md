@@ -547,7 +547,8 @@ Se utiliza una clara estructura de rutas y manejo de datos internacionales media
 Los componentes comparten estilos comunes mediante archivos CSS y bibliotecas de iconos (primeicons).
 
 4.8. Database Design  
-4.8.1. Database Diagram  
+4.8.1. Database Diagram
+![image alt](./assets/img/database-diagram.jpg)
 
 ## Capítulo V: Product Implementation, Validation & Deployment  
 5.1. Software Configuration Management  
