@@ -360,6 +360,7 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsWireframes6.jpg)
 
 4.4.2. Web Applications Wireflow Diagrams  
+link [lucidchart](https://lucid.app/lucidchart/894ea71f-a5fb-4f49-918a-7a3ba6b6542b/edit?viewport_loc=-1420%2C4811%2C5935%2C2778%2C0_0&invitationId=inv_79013474-b8a7-4bb2-913b-9eedaeeac46f)
 4.4.3. Web Applications Mock-ups  
 4.4.4. Web Applications User Flow Diagrams  
 4.5. Web Applications Prototyping  
