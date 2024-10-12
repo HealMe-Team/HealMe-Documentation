@@ -220,6 +220,17 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 Las **Guías Generales de Estilo** establecen las bases para mantener una apariencia y sensación coherente en toda la plataforma "HEALME". Estas directrices aseguran que todos los elementos visuales y de comunicación estén alineados con la identidad de la marca y proporcionen una experiencia de usuario óptima.
 
+### Elementos Clave:
+
+- **Identidad de Marca:**
+  - **Logo:** El logo de HEALME debe ser claro y reconocible, utilizando los colores principales de la marca.
+  - **Paleta de Colores:** Se utilizarán tonos verdes claros para títulos importantes, tonos oscuros para los fondos y tonos blancos para el texto, asegurando un contraste adecuado para una lectura fácil.
+  ![2-removebg-preview (1)](https://hackmd.io/_uploads/Sy-NxHZ2R.png)
+![HealMe Logo](https://hackmd.io/_uploads/ryErlrW20.png)
+![imagen_2024-08-31_201703420](https://hackmd.io/_uploads/SJ_9xS-hA.png)
+
+
+
 4.1.2. Web Style Guidelines  
 4.2. Information Architecture  
 4.2.1. Organization Systems  
