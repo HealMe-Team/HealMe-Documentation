@@ -254,6 +254,9 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 - **Acerca de**
 
 4.2.3. SEO Tags and Meta Tags  
+
+**Etiquetas SEO y Meta** son fundamentales para mejorar la visibilidad de la plataforma en motores de búsqueda y para proporcionar información esencial a los navegadores y redes sociales.
+
 4.2.4. Searching Systems  
 4.2.5. Navigation Systems  
 4.3. Landing Page UI Design  
