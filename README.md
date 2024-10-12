@@ -222,6 +222,12 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 - **Sobre Nosotros:** Información sobre la startup, misión, visión y equipo.
 - **Contacto y Soporte:** Formulario de contacto, preguntas frecuentes y soporte en línea.
 - **Blog/Recursos:** Artículos y recursos relacionados con la salud y viajes.
+
+  ### Modelos de Organización Utilizados:
+
+- **Jerárquico:** Estructura de árbol donde la información se organiza de lo general a lo específico.
+- **Secuencial:** Flujo lógico de pasos para completar tareas, como reservar una cita.
+- **Red:** Conexiones entre diferentes secciones para facilitar el acceso rápido a información relacionada.
   
 4.2.2. Labeling Systems  
 4.2.3. SEO Tags and Meta Tags  
