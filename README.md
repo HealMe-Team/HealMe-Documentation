@@ -300,6 +300,12 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 ```
 
 4.2.4. Searching Systems  
+
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Landingpage4.jpg)
+
 4.2.5. Navigation Systems  
 4.3. Landing Page UI Design  
 4.3.1. Landing Page Wireframe  
