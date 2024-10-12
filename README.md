@@ -205,6 +205,9 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
   - **Navegación con Teclado:** Garantizar que todos los elementos interactivos sean accesibles mediante el teclado.
 
 4.2. Information Architecture  
+
+La **Arquitectura de la Información** define cómo se organiza y estructura el contenido dentro de la plataforma "HEALME", facilitando la navegación y el acceso a la información por parte de los usuarios.
+
 4.2.1. Organization Systems  
 4.2.2. Labeling Systems  
 4.2.3. SEO Tags and Meta Tags  
