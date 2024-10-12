@@ -209,6 +209,20 @@ Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño
 La **Arquitectura de la Información** define cómo se organiza y estructura el contenido dentro de la plataforma "HEALME", facilitando la navegación y el acceso a la información por parte de los usuarios.
 
 4.2.1. Organization Systems  
+
+**Sistemas de Organización** determinan la manera en que se agrupan y categorizan los contenidos en la plataforma.
+
+### Estructura Principal:
+
+- **Home/Landing Page:** Introducción a HEALME, características principales, testimonios y llamadas a la acción.
+- **Buscar Servicios Médicos:** Herramienta de búsqueda avanzada por ubicación, especialidad y precio.
+- **Perfil del Proveedor:** Página individual para cada centro médico con detalles, horarios, precios y reseñas.
+- **Reservas/Citas:** Sección para gestionar reservas de citas médicas.
+- **Historial Médico:** Registro de citas pasadas y detalles de tratamientos.
+- **Sobre Nosotros:** Información sobre la startup, misión, visión y equipo.
+- **Contacto y Soporte:** Formulario de contacto, preguntas frecuentes y soporte en línea.
+- **Blog/Recursos:** Artículos y recursos relacionados con la salud y viajes.
+  
 4.2.2. Labeling Systems  
 4.2.3. SEO Tags and Meta Tags  
 4.2.4. Searching Systems  
