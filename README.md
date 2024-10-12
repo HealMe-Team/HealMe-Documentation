@@ -230,6 +230,9 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 - **Red:** Conexiones entre diferentes secciones para facilitar el acceso rápido a información relacionada.
   
 4.2.2. Labeling Systems  
+
+**Sistemas de Etiquetado** se refieren a cómo se nombran y categorizan los elementos dentro de la plataforma para asegurar claridad y coherencia.
+
 4.2.3. SEO Tags and Meta Tags  
 4.2.4. Searching Systems  
 4.2.5. Navigation Systems  
