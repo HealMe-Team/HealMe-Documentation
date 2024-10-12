@@ -166,6 +166,13 @@ Las **Guías Generales de Estilo** establecen las bases para mantener una aparie
   - **Lenguaje Claro:** Evitar jerga técnica innecesaria y asegurar que la información sea comprensible para todos los usuarios.
     
 4.1.2. Web Style Guidelines  
+
+Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño para la plataforma digital, asegurando una experiencia de usuario consistente y atractiva.
+
+![landing](https://hackmd.io/_uploads/S1G4bHWn0.png)
+
+
+
 4.2. Information Architecture  
 4.2.1. Organization Systems  
 4.2.2. Labeling Systems  
