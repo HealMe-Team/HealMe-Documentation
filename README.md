@@ -257,6 +257,48 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 
 **Etiquetas SEO y Meta** son fundamentales para mejorar la visibilidad de la plataforma en motores de búsqueda y para proporcionar información esencial a los navegadores y redes sociales.
 
+### Directrices para SEO y Meta Tags:
+
+- **Title Tags:**
+  - Descriptivos y únicos para cada página.
+  - Incluir palabras clave relevantes (e.g., "Reservar Cita Médica en el Extranjero | HEALME").
+
+- **Meta Descriptions:**
+  - Resumen conciso de la página (150-160 caracteres).
+  - Incluir palabras clave y un llamado a la acción.
+
+- **Header Tags (H1, H2, H3):**
+  - Usar H1 para el título principal de la página.
+  - Utilizar H2 y H3 para subtítulos y secciones.
+
+- **Alt Text para Imágenes:**
+  - Descripciones claras y precisas de las imágenes.
+  - Incluir palabras clave cuando sea relevante.
+
+- **URL Amigables:**
+  - URLs cortas y descriptivas (e.g., `healmé.com/buscar-medicos`).
+
+- **Keywords:**
+  - Investigación y selección de palabras clave relevantes para cada sección.
+  - Integrar de manera natural en el contenido.
+
+- **Open Graph Tags:**
+  - Optimizar la apariencia de las páginas cuando se comparten en redes sociales.
+  - Incluir título, descripción, imagen y URL.
+
+### Ejemplo de Meta Tags para la Página de Inicio:
+
+```html
+<head>
+  <title>HEALME | Reserva Citas Médicas en el Extranjero</title>
+  <meta name="description" content="HEALME te permite buscar, comparar y reservar citas médicas en cualquier parte del mundo de manera rápida y transparente.">
+  <meta property="og:title" content="HEALME | Reserva Citas Médicas en el Extranjero">
+  <meta property="og:description" content="Accede a servicios médicos de calidad en tus destinos de viaje con HEALME.">
+  <meta property="og:image" content="URL_de_la_imagen">
+  <meta property="og:url" content="https://healmé.com">
+</head>
+```
+
 4.2.4. Searching Systems  
 4.2.5. Navigation Systems  
 4.3. Landing Page UI Design  
