@@ -316,6 +316,14 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 ![](https://github.com/LuisCS341/ImagenProyecto/raw/main/Wireframe4.jpg)
 
 4.3.2. Landing Page Mock-up  
+
+![](https://github.com/LuisCS341/ImagenProyecto/raw/main/Frame%209%20(1)%20(1).jpg)
+<img src="assets/img/mock-up-landing-1.png">
+<img src="assets/img/mock-up-landing-2.png">
+<img src="assets/img/mock-up-landing-3.png">
+<img src="assets/img/mock-up-landing-4.png">
+<img src="assets/img/mock-up-landing-5.png">
+
 4.4. Web Applications UX/UI Design  
 4.4.1. Web Applications Wireframes  
 4.4.2. Web Applications Wireflow Diagrams  
