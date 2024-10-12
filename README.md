@@ -240,6 +240,18 @@ La **Arquitectura de la Información** define cómo se organiza y estructura el 
 - **Concisión:** Evitar etiquetas largas; mantener los nombres breves pero informativos.
 - **Relevancia:** Asegurarse de que las etiquetas reflejen fielmente el contenido o la función correspondiente.
 
+### Ejemplos de Etiquetas:
+
+- **Inicio**
+- **Buscar Médicos**
+- **Mis Citas**
+- **Perfil del Médico**
+- **Comparar Precios**
+- **Reseñas**
+- **Contacto**
+- **Soporte**
+- **Blog**
+- **Acerca de**
 
 4.2.3. SEO Tags and Meta Tags  
 4.2.4. Searching Systems  
