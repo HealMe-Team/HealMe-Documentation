@@ -472,6 +472,8 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 
 4.4.3. Web Applications Mock-ups  
 4.4.4. Web Applications User Flow Diagrams  
+
+
 4.5. Web Applications Prototyping  
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping1.jpg)
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
