@@ -217,6 +217,9 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 ## Capítulo IV: Product Design  
 4.1. Style Guidelines  
 4.1.1. General Style Guidelines  
+
+Las **Guías Generales de Estilo** establecen las bases para mantener una apariencia y sensación coherente en toda la plataforma "HEALME". Estas directrices aseguran que todos los elementos visuales y de comunicación estén alineados con la identidad de la marca y proporcionen una experiencia de usuario óptima.
+
 4.1.2. Web Style Guidelines  
 4.2. Information Architecture  
 4.2.1. Organization Systems  
