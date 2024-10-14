@@ -494,7 +494,7 @@ El doctor puede visualizar el historial de citas que atendio a los pacientes
 4.7. Software Object-Oriented Design  
 ![image alt](./assets/img/ood.png)
 4.7.1. Class Diagrams  
-![image alt](./assets/img/diagramaoficial.png)
+![image alt](./assets/diagrama-componentes.png)
 4.7.2. Class Dictionary  
 
 1. Componentes Principales (Vue.js)
